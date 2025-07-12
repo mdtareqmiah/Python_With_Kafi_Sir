@@ -5,3 +5,10 @@ import random
 
 print(sys.version)
 print(random.randrange(0,30))
+s=input()
+print(s)
+print(type(s))
+
+s=int(input())
+print(s)
+print(type(s))
