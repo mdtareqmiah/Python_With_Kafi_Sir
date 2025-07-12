@@ -12,3 +12,5 @@ print(type(s))
 s=int(input())
 print(s)
 print(type(s))
+
+print("This is the day of null After complete of new operating on my system")
