@@ -26,3 +26,9 @@ print(len(list1))
 
 mylist=list(("apple","banana","cherry","list using double first backet"))
 print(mylist)
+
+#list allow duplicate 
+
+mylist=list(("apple","pineapple","banana","banana","apple","pineapple"))
+print(len(mylist))
+print(mylist)
