@@ -32,3 +32,7 @@ print(mylist)
 mylist=list(("apple","pineapple","banana","banana","apple","pineapple"))
 print(len(mylist))
 print(mylist)
+
+mylist=["apple","banana","cherry"]
+if "apple" in mylist:
+    print("Yes 'apple' isin the fruit lists.")
